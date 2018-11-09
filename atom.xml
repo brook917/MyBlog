@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://brook917.github.io/"/>
+  <link href="http://brook917.com/"/>
   <updated>2017-10-28T00:39:58.000Z</updated>
-  <id>http://brook917.github.io/</id>
+  <id>http://brook917.com/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://brook917.github.io/2017/10/28/hello-world/"/>
-    <id>http://brook917.github.io/2017/10/28/hello-world/</id>
+    <link href="http://brook917.com/2017/10/28/hello-world/"/>
+    <id>http://brook917.com/2017/10/28/hello-world/</id>
     <published>2017-10-28T00:39:58.000Z</published>
     <updated>2017-10-28T00:39:58.000Z</updated>
     
